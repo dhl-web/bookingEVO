@@ -1,0 +1,6 @@
+{
+  "name": "EVO English - Đặt Lịch Tư Vấn 1-1",
+  "description": "Trang đặt lịch tư vấn chương trình Huấn Luyện Viên Tiếng Anh 1-1 của trung tâm tiếng Anh EVO English cùng Founder Tiểu My Na.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
